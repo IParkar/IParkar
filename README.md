@@ -2,6 +2,18 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">Ishani Parkar</h1>
-<p align="center">I am a Business Intelligence Engineer with a foundation in software engineering and a Master’s in Information Systems. My career began at Accenture, where I built the technical discipline required to manage complex systems. Today, I leverage that engineering rigor to solve the most common and costly problem in business: fragmented data. I specialize in building end-to-end ETL pipelines and cloud-based data models that turn "raw noise" into actionable strategy. Whether I’m automating processes to save $15k in annual overhead or improving model accuracy by 20% through deep learning, my goal is the same: Total Data Integrity. I believe data is only valuable when it’s actionable. I’m here to ensure your infrastructure doesn't just collect information, but actively drives your next move.</p>
+<p align="center">## Hi, I'm Ishani 👋
+
+I like taking messy data and a fuzzy business question and turning them into something people can use.
+
+My path has been a mix. I started as a developer at Accenture in Mumbai. Then I built machine learning models as a research assistant at Cal State Fullerton. After that I worked on the mortgage side, first checking loan data as it moved between systems and now as a business analyst on a tech team. Each role showed me the same thing: good decisions need clean, trusted data, and someone who understands both the business and the code.
+
+That is the space I want to work in.
+
+**What you will find here**
+
+Personal projects where I learn by building with real public data. I document every step and every decision, including the ones that did not work.
+
+[LinkedIn](https://linkedin.com/in/ishani-parkar)</p>
 
 
