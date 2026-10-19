@@ -2,7 +2,7 @@
 <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
 </div>
 <h1 align="center">Ishani Parkar</h1>
-<p align="center">Hi, I'm Ishani 👋
+<p align="center">Hi, I'm Ishani 
 
 I like taking messy data and a fuzzy business question and turning them into something people can use.
 
